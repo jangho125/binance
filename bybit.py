@@ -23,7 +23,7 @@ bybit = ccxt.bybit(config={
 
 
 
-symbol = "BTC/USDT"
+symbol = "BTCUSDT"
 fees = 0.0007
 timeframe = '4h'
 leverage = 3
