@@ -28,8 +28,8 @@ http_session.mount('https://api.bybit.com', HTTPAdapter(max_retries=retries))
 bot = telegram.Bot(token='5382077543:AAGGW3Tkd91p0UqUFP8JRbwYA-d4k5q5ybQ')
 chat_id = 5319359286
 
-api_key = "gjNFGc1OwP5s8LOaZR"
-secret = "h9IwB4c07TOh8dT9hMB1nDhOSJH3ntGuvvtk"
+api_key = "RDevM2wLWKaeWHvFL7"
+secret = "eDs4JKBKwh2B05PA3YglLasKPPXdPlHJdTCA"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 
